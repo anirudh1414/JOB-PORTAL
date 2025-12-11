@@ -42,7 +42,40 @@ This project allows **job seekers** and **recruiters** to register, login, searc
 
 ---
 
+
+
 ## 📁 Project Structure
+
+JOBPORTAL
+│── src/main/java/com/happy2code/jobportal
+│ ├── config
+│ ├── controller
+│ ├── entity
+│ ├── repository
+│ ├── services
+│ └── util
+│
+│── src/main/resources
+│ ├── static
+│ │ ├── css
+│ │ ├── js
+│ │ ├── fonts
+│ │ └── assets
+│ ├── templates
+│ │ ├── index.html
+│ │ ├── login.html
+│ │ ├── register.html
+│ │ ├── dashboard.html
+│ │ ├── add-jobs.html
+│ │ ├── job-details.html
+│ │ ├── recruiter_profile.html
+│ │ └── saved-jobs.html
+│ └── application.properties
+│
+│── pom.xml
+│── mvnw
+│── mvnw.cmd
+
 
 
 
