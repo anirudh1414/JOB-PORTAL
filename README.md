@@ -25,7 +25,6 @@ This project allows **job seekers** and **recruiters** to register, login, searc
 - Dashboard for both users  
 - Responsive UI with Bootstrap  
 - Form validation  
-- Secure login with Spring Security (if used)
 
 ---
 
@@ -41,6 +40,7 @@ This project allows **job seekers** and **recruiters** to register, login, searc
 | Server | Embedded Tomcat |
 
 ---
+
 
 
 
